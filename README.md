@@ -10,4 +10,7 @@ The libraries Required are:
 3. Matplotlib
 4. Seaborn
 
+The notebook contains markdown cells mentioning which Task in being Performed and just run all cells in the begining and give it about 2 minutes to completely run every cell.
+
+
 P.S I did not commit much as i did most of my work on a local machine.
